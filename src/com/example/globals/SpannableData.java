@@ -4,6 +4,7 @@ import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.Spanned;
 import android.text.TextPaint;
+import android.text.method.LinkMovementMethod;
 import android.text.style.ClickableSpan;
 import android.view.View;
 
@@ -30,6 +31,7 @@ public class SpannableData {
 			// Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
 
 			// txt_agreement.setText(ss);
+			// txt_agreement.setMovementMethod(LinkMovementMethod.getInstance());
 		}
 	}
 
