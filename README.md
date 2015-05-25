@@ -21,6 +21,9 @@ Some resources which can be used in future
 
 
 ### Material design Floating Action Button: 
-##https://github.com/makovkastar/FloatingActionButton
+## https://github.com/makovkastar/FloatingActionButton
 
 ![alt tag](https://github.com/makovkastar/FloatingActionButton/raw/master/art/demo.gif)
+
+Another Floating Button resource: 
+## https://github.com/Clans/FloatingActionButton
