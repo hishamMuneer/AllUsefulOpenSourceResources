@@ -27,3 +27,6 @@ Some resources which can be used in future
 
 Another Floating Button resource: 
 ## https://github.com/Clans/FloatingActionButton
+https://github.com/shell-software/fab
+
+![](https://github.com/shell-software/fab/raw/master/demo/animation_roll_from_down_roll_to_down.gif)
