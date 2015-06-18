@@ -1,15 +1,16 @@
 ## AllUsefulOpenSourceResources
 Some resources which can be used in future
 
-# Extremely Important: 
-## https://github.com/codepath/android_guides/wiki
-## https://github.com/wasabeef/awesome-android-libraries
-## https://github.com/JStumpp/awesome-android
-## https://github.com/futurice/android-best-practices
-## https://github.com/cesards/AndroidElementals
+# Extremely Important:
+================================
++ https://github.com/codepath/android_guides/wiki
++ https://github.com/wasabeef/awesome-android-libraries
++ https://github.com/JStumpp/awesome-android
++ https://github.com/futurice/android-best-practices
++ https://github.com/cesards/AndroidElementals
 
 ### Some excellent material designs: 
-##https://github.com/saulmm/Android-Material-Examples
+## https://github.com/saulmm/Android-Material-Examples
 
 ### Working with shared elements, explode transition, and animations
 + Playing with the new menu-to arrow toggle animattion added in the Support Library
